@@ -1,0 +1,20 @@
+.child1,.child2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.child{
+    display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap-reverse;
+
+    
+}
+
+.child1{
+    background-color: blue;
+}
+.child2{
+    background-color: yellow;
+}

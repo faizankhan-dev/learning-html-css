@@ -1,0 +1,22 @@
+.faiz:hover{
+    color: red;
+}
+
+.faiz1:hover{
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+}
+
+.container{
+    background-color: aqua;
+}
+
+.container h1:first-child{
+    background-color: red;
+}
+
+ul li:nth-child(even){
+    background-color: blue;
+    color: white;
+}
